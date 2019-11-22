@@ -1,0 +1,9 @@
+label {
+    display: block;
+    font-size: 12px;
+}
+
+input[type='submit'],
+label {
+    margin-top: 20px;
+}
